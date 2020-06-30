@@ -2,9 +2,9 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package text // import "gonum.org/v1/plot/text"
+package text // import "github.com/elamre/plot/text"
 
-import "gonum.org/v1/plot/vg/draw"
+import "github.com/elamre/plot/vg/draw"
 
 // Plain is a text/plain handler.
 type Plain = draw.PlainTextHandler

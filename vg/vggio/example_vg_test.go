@@ -14,10 +14,10 @@ import (
 	"gioui.org/io/system"
 	"gioui.org/unit"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
-	"gonum.org/v1/plot/vg/vggio"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/draw"
+	"github.com/elamre/plot/vg/vggio"
 )
 
 func ExampleCanvas() {

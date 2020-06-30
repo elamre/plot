@@ -7,11 +7,11 @@ package plotter_test
 import (
 	"testing"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/cmpimg"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg/draw"
-	"gonum.org/v1/plot/vg/vgimg"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/cmpimg"
+	"github.com/elamre/plot/plotter"
+	"github.com/elamre/plot/vg/draw"
+	"github.com/elamre/plot/vg/vgimg"
 )
 
 type field struct {

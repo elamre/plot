@@ -8,12 +8,12 @@ import (
 	"image/color"
 	"testing"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/cmpimg"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
-	"gonum.org/v1/plot/vg/recorder"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/cmpimg"
+	"github.com/elamre/plot/plotter"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/draw"
+	"github.com/elamre/plot/vg/recorder"
 )
 
 func TestPolygon_holes(t *testing.T) {

@@ -2,14 +2,14 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package draw // import "gonum.org/v1/plot/vg/draw"
+package draw // import "github.com/elamre/plot/vg/draw"
 
 import (
 	"image/color"
 	"math"
 	"strings"
 
-	"gonum.org/v1/plot/vg"
+	"github.com/elamre/plot/vg"
 )
 
 // TextHandler parses, formats and renders text.

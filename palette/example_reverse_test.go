@@ -8,10 +8,10 @@ import (
 	"fmt"
 	"log"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/palette"
-	"gonum.org/v1/plot/palette/moreland"
-	"gonum.org/v1/plot/plotter"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/palette"
+	"github.com/elamre/plot/palette/moreland"
+	"github.com/elamre/plot/plotter"
 )
 
 // This example creates a color bar and a second color bar where the

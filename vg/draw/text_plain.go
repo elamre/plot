@@ -2,13 +2,13 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package draw // import "gonum.org/v1/plot/vg/draw"
+package draw // import "github.com/elamre/plot/vg/draw"
 
 import (
 	"math"
 	"strings"
 
-	"gonum.org/v1/plot/vg"
+	"github.com/elamre/plot/vg"
 )
 
 // PlainTextHandler is a text/plain handler.

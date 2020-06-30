@@ -10,9 +10,9 @@ import (
 
 	"golang.org/x/exp/rand"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/plotter"
+	"github.com/elamre/plot/vg"
 )
 
 func ExampleBoxPlot() {

@@ -13,8 +13,8 @@ import (
 	"github.com/go-latex/latex/mtex"
 	"github.com/go-latex/latex/tex"
 
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/draw"
 )
 
 // Latex parses, formats and renders LaTeX.

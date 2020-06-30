@@ -2,15 +2,15 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package gob // import "gonum.org/v1/plot/gob"
+package gob // import "github.com/elamre/plot/gob"
 
 import (
 	"encoding/gob"
 	"image/color"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/text"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/plotter"
+	"github.com/elamre/plot/text"
 )
 
 func init() {

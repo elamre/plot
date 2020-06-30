@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package vggio provides a vg.Canvas implementation backed by Gioui.
-package vggio // import "gonum.org/v1/plot/vg/vggio"
+package vggio // import "github.com/elamre/plot/vg/vggio"
 
 import (
 	"image/color"
@@ -14,8 +14,8 @@ import (
 	"gioui.org/op"
 	"gioui.org/op/paint"
 
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/vgimg"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/vgimg"
 )
 
 // Canvas implements the vg.Canvas interface,

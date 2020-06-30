@@ -8,10 +8,10 @@ import (
 	"image/color"
 	"testing"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/cmpimg"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/cmpimg"
+	"github.com/elamre/plot/plotter"
+	"github.com/elamre/plot/vg"
 )
 
 func TestTexCanvas(t *testing.T) {

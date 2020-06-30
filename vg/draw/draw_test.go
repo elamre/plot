@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/recorder"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/recorder"
 )
 
 func TestCrop(t *testing.T) {

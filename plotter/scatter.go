@@ -5,9 +5,9 @@
 package plotter
 
 import (
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/draw"
 )
 
 // Scatter implements the Plotter interface, drawing

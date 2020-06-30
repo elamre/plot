@@ -11,10 +11,10 @@ import (
 	"golang.org/x/exp/rand"
 
 	"gonum.org/v1/gonum/mat"
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/palette"
-	"gonum.org/v1/plot/plotter"
-	"gonum.org/v1/plot/vg"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/palette"
+	"github.com/elamre/plot/plotter"
+	"github.com/elamre/plot/vg"
 )
 
 func ExampleContour() {

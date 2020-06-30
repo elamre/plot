@@ -1,4 +1,4 @@
-module gonum.org/v1/plot
+module github.com/elamre/plot
 
 go 1.13
 

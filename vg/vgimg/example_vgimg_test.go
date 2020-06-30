@@ -9,10 +9,10 @@ import (
 	"image/color"
 	"log"
 
-	"gonum.org/v1/plot"
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/draw"
-	"gonum.org/v1/plot/vg/vgimg"
+	"github.com/elamre/plot"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/draw"
+	"github.com/elamre/plot/vg/vgimg"
 )
 
 func ExampleUseDPI() {

@@ -2,19 +2,19 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
-package draw // import "gonum.org/v1/plot/vg/draw"
+package draw // import "github.com/elamre/plot/vg/draw"
 
 import (
 	"fmt"
 	"image/color"
 	"math"
 
-	"gonum.org/v1/plot/vg"
-	"gonum.org/v1/plot/vg/vgeps"
-	"gonum.org/v1/plot/vg/vgimg"
-	"gonum.org/v1/plot/vg/vgpdf"
-	"gonum.org/v1/plot/vg/vgsvg"
-	"gonum.org/v1/plot/vg/vgtex"
+	"github.com/elamre/plot/vg"
+	"github.com/elamre/plot/vg/vgeps"
+	"github.com/elamre/plot/vg/vgimg"
+	"github.com/elamre/plot/vg/vgpdf"
+	"github.com/elamre/plot/vg/vgsvg"
+	"github.com/elamre/plot/vg/vgtex"
 )
 
 // A Canvas is a vector graphics canvas along with
